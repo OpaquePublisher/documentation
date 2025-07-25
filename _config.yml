@@ -1,8 +1,8 @@
-title: DigitalArc Toolkit
-description: A toolkit for communities who want to create digital exhibits of their community stories or historical archives
+title: Opaque Online Publishing Platform Documentation
+description: A  publishing platform provides support for digital publications that have sensitive-image content for which audience-selected redaction is valuable.
 theme: just-the-docs
 
-url: https://digitalarcplatform.github.io/documentation
+url: https://opaquepublisher.github.io/documentation/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
@@ -12,13 +12,13 @@ color_scheme: light
 # URL will usually be blank. Entering something here allows you to control whether links use a full URL or not
 url: 
 # Base URL will be blank if the documentation is not in a subfolder of your web site. If the documentation will be in a folder (site.com/documentation/) instead of in its own main site (site.github.io) add that folder name here with a slash / in front of it (e.g. /docs) but not after.
-baseurl: /NetCreateDocs
+baseurl: /documentation
 # This lets you specify where most images are stored without having to manually type each image url. Use ""{{site.url}}{{site.baseurl}}/filename.html" to link to files and "{{site.url}}{{site.baseurl}}{{site.imageurl}}/imagename.jpg" to link to images.
 imageurl: /assets/images
 gifurl: /assets/videos
 
 #Github Repository
-repository: digitalarcplatform/documentation
+repository: OpaquePublisher/documentation
 
 #Search Configuration
 search_enabled: true
