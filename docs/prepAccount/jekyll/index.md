@@ -2,8 +2,7 @@
 title: What is Jekyll?
 layout: default
 nav_order: 2
-parent: Understanding Websites
-grand_parent: Setting Up Your Github Account
+parent: Setting Up Your Github Account
 ---
 
 # What is Jekyll?
